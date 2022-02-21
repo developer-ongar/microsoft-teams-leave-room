@@ -19,3 +19,5 @@ pip3 install keyboard
 Обязательно обновите тесты по мере необходимости.
 
 ## License
+
+[MIT](https://github.com/developer-ongar/microsoft-teams-leave-room/blob/main/LICENSE)
