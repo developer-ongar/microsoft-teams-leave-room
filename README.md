@@ -4,6 +4,8 @@
 
 ## Install
 
+Вводите в терминале Windows, Linux, MacOS
+
 ```bash
 gh repo clone developer-ongar/microsoft-teams-leave-room
 ```
