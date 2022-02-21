@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-
+gh repo clone developer-ongar/microsoft-teams-leave-room
 ```
 
 ```bash
