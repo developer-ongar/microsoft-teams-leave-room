@@ -7,7 +7,7 @@
 Вводите в терминале Windows, Linux, MacOS
 
 ```bash
-https://github.com/developer-ongar/microsoft-teams-leave-room.git
+git clone https://github.com/developer-ongar/microsoft-teams-leave-room.git
 ```
 
 ```bash
